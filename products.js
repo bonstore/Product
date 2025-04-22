@@ -4,29 +4,27 @@ const products = {
     category1: [
         {
             id: "c1p1",
-            name: "Panel 1Gb",
-            price: "Rp 1.000",
-            description: "Kualitas Terbaik",
-            image: "https://i.ibb.co.com/zWrhmXdg/47d333c7330d5dd8d2a28b1995d02a25.jpg",
-            checkoutUrl: "https://wa.me/6285141316926?text=Halo%20Admin%0ASaya%20ingin%20mengonfirmasi%20pembelian%20dengan%20detail%20sebagai%20berikut%3A%0A%0AProduk%3A%20Panel%201Gb%0AHarga%3A%20Rp%201.000%0A%0ABerikut%20saya%20lampirkan%20bukti%20pembayaran.%0AMohon%20konfirmasinya%2C%20terima%20kasih."
+            name: "Premium Web Hosting",
+            price: "Rp 899.000",
+            description: "High-performance web hosting with unlimited bandwidth and storage. Perfect for business websites.",
+            image: "https://i.pinimg.com/736x/3c/8a/27/3c8a27d019100decf195df07f2f6406f.jpg",
+            checkoutUrl: "https://wa.me/6288980818668?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20Premium%20Web%20Hosting%20dengan%20harga%20Rp%20899.000.%20Berikut%20bukti%20pembayarannya."
         },
         {
             id: "c1p2",
-            name: "Panel 2Gb",
-            price: "Rp 2.000",
-            description: "Kualitas Terbaik",
-            image: "https://i.ibb.co.com/zWrhmXdg/47d333c7330d5dd8d2a28b1995d02a25.jpg",
-            checkoutUrl: "https://wa.me/6285141316926?text=Halo%20Admin%0ASaya%20ingin%20mengonfirmasi%20pembelian%20dengan%20detail%20sebagai%20berikut%3A%0A%0AProduk%3A%20Panel%202Gb%0AHarga%3A%20Rp%202.000%0A%0ABerikut%20saya%20lampirkan%20bukti%20pembayaran.%0AMohon%20konfirmasinya%2C%20terima%20kasih.
-"
+            name: "SEO Optimization",
+            price: "Rp 1.299.000",
+            description: "Complete SEO package to boost your website ranking in search engines and increase visibility.",
+            image: "https://i.pinimg.com/736x/55/7b/92/557b923cdebb618149e405519cf3f793.jpg",
+            checkoutUrl: "https://wa.me/6288980818668?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20SEO%20Optimization%20dengan%20harga%20Rp%201.299.000.%20Berikut%20bukti%20pembayarannya."
         },
-                {
+        {
             id: "c1p3",
-            name: "Panel 4Gb",
-            price: "Rp 4.000",
-            description: "Kualitas Terbaik",
-            image: "https://i.ibb.co.com/zWrhmXdg/47d333c7330d5dd8d2a28b1995d02a25.jpg",
-            checkoutUrl: "https://wa.me/6285141316926?text=Halo%20Admin%0ASaya%20ingin%20mengonfirmasi%20pembelian%20dengan%20detail%20sebagai%20berikut%3A%0A%0AProduk%3A%20Panel%204Gb%0AHarga%3A%20Rp%204.000%0A%0ABerikut%20saya%20lampirkan%20bukti%20pembayaran.%0AMohon%20konfirmasinya%2C%20terima%20kasih.
-"
+            name: "Custom Domain",
+            price: "Rp 249.000",
+            description: "Premium domain name registration with free SSL certificate and email accounts.",
+            image: "https://i.pinimg.com/736x/5c/96/d5/5c96d510a486274974d8823213bab5b2.jpg",
+            checkoutUrl: "https://wa.me/6288980818668?text=Hay%20Min%2C%20saya%20ingin%20konfirmasi%20pembelian%20produk%20Custom%20Domain%20dengan%20harga%20Rp%20249.000.%20Berikut%20bukti%20pembayarannya."
         }
     ],
     
